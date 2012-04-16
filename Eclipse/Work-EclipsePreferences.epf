@@ -1,4 +1,4 @@
-#Mon Apr 16 15:36:45 BST 2012
+#Mon Apr 16 15:48:16 BST 2012
 /instance/org.eclipse.jdt.ui/sp_cleanup.always_use_parentheses_in_expressions=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__subclipse.tigris.org_update_1.2.x/isSystem=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__subclipse.tigris.org_update_1.2.x/url=http\://subclipse.tigris.org/update_1.2.x
@@ -184,6 +184,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_method_declaration=0
 /instance/org.eclipse.jdt.ui/sp_cleanup.always_use_this_for_non_static_field_access=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_postfix_operator=do not insert
+/instance/org.apache.ivyde.eclipse/resolveInWorkspace=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__update.eclipse.org_tools_ve_updates_1.0/suffix=site.xml
 /instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.sdk=C\:\\Android\\android-sdk
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_type_arguments=do not insert
@@ -380,7 +381,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.format_guardian_clause_on_one_line=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__www.eclipse.org_modeling_emft_updates_/isSystem=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_mylyn_update_extras/url=http\://download.eclipse.org/tools/mylyn/update/extras
-/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_releases_ganymede/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
 /instance/org.eclipse.epp.usagedata.recording/org.eclipse.epp.usagedata.recording.last-upload=1324473770312
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_local_variables=false
@@ -545,6 +546,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__update.eclipse.org_updates_3.3/description=
 /instance/org.eclipse.debug.ui/org.eclipse.debug.uiinspectPopupSashWeights=750\:250
+/instance/org.apache.ivyde.eclipse/retrievedClasspath.pattern=lib/[type]s/[artifact]-[revision].[ext]
 /instance/org.eclipse.ant.ui/problem_classpath=warning
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.indent_parameter_description=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_annotation_declaration_header=true
@@ -648,6 +650,7 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_birt_update-site_2.3/isSystem=false
 @org.eclipse.ui.ide=3.7.0.v20110928-1505
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_releases_ganymede/provider=
+@org.apache.ivyde.eclipse=2.2.0.beta1-201203282058-RELEASE
 /instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__update.eclipse.org_updates_3.0/description=
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_trailing_whitespaces_ignore_empty=false
@@ -795,6 +798,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.preserve_white_space_between_code_and_line_comments=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_modeling_emft_updates_/url=http\://download.eclipse.org/modeling/emft/updates/
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_gmf_updates_releases_/enabled=false
+/instance/org.apache.ivyde.eclipse/ivy_conf_path=http\://svr01\:2000/public/ivy/settings/ivysettings.xml
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_eclipse_p2_org.eclipse.equinox.p2.core_cache_/enabled=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_eclipse_p2_org.eclipse.equinox.p2.director_rollback/name=Agent rollback repository
 @org.eclipse.mylyn.context.core=3.7.0.v20120319-0200
@@ -907,6 +911,7 @@ file_export_version=3.0
 /instance/org.eclipse.ui.views.log/column2=528
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_modeling_m2t_updates_/isSystem=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_emf_updates_/enabled=false
+/instance/org.apache.ivyde.eclipse/retrievedClasspath.types=*
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_annotation=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_array_initializer=insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__argoeclipse.tigris.org_update_site/version=1
